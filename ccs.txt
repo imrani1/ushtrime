@@ -1,0 +1,55 @@
+a{
+    font-style: italic;
+    color: black;
+ background-color: rgb(130, 247, 255);
+}
+h1{
+    color: red;
+    font-style: bold;
+    font-size: xx-large;
+}
+h2{
+    color: rgb(12, 12, 12);
+    font-style: italic;
+}
+p{
+    color: black;
+    font-style: italic;
+}
+
+ ul li{
+    float: left;
+    color: rgb(12, 12, 12);
+    font-style: normal;
+}
+ h2{
+    color: rgb(12, 12, 12);
+}
+h4{
+    color: rgb(13, 13, 13);
+}
+
+li{
+    float: right;
+    color: rgb(13, 13, 13);
+    font-size: small;
+}
+input{
+    color: black;
+    border-bottom: double;
+}
+div{padding: 20px;
+    float: right;
+    font-size: smaller ;
+}
+div input{
+    float: left;
+    text-align: center;
+    color: rgb(12, 12, 12);
+
+}
+ div button{
+    font-size: x-small;
+    background-position: center;
+    color: blue;
+ }
